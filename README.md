@@ -12,7 +12,7 @@
 <p align="center">
   <img src="img/pin_wiring.jpg" alt="ds18b20 lora transmitter and receiver"  width="500" height="600"><br>
   </p>
- <p> Συνδέστε το ds18b20 στον ακροδέκτη 4 του Arduino UNO (transmitter) </p>
+ <p> Συνδέστε το ds18b20 στον ακροδέκτη 4 του Arduino UNO (transmitter). Η αντίσταση είναι στα 4,7kOhm </p>
 
  
 ## Η παρουσίαση 
